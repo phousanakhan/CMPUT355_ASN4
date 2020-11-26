@@ -1,6 +1,8 @@
 # Connect-4
 Connect-4, also known as known as four-in-a-row, is a simple game where a player must make a straight line of four in their piece to win the game. The line can be vertical, horizontal or diagonal.
 
+Team Name: BlueKittens
+
 
 ### Requirements
 1. numpy
