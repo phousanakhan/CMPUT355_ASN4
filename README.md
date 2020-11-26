@@ -16,5 +16,9 @@ python3 main.py
 ```
 
 ## Link to Video
-[Click Here](https://drive.google.com/file/d/1Zf99oCnOtmcndBpXeyD7Av0naMXMEf92/view?usp=sharing)
+[Click Here](https://drive.google.com/file/d/1Zf99oCnOtmcndBpXeyD7Av0naMXMEf92/view?usp=sharing){:target="_blank"}
+
+
+
+
 
